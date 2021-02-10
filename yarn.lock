@@ -13868,10 +13868,10 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
-rollup-plugin-analyzer@^3.2.3:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-analyzer/-/rollup-plugin-analyzer-3.2.3.tgz#c8199133625b5d43ce87eae7254dd5851e1cb32f"
-  integrity sha512-Oq5GtofTCIGhW4mDNtnxH106gvPKQcdAKTLujWekAiLiTmstXX9Fmye7uMG7NaZVBHgKPPsIWCtPj04ci/YXmg==
+rollup-plugin-analyzer@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-analyzer/-/rollup-plugin-analyzer-4.0.0.tgz#96b757ed64a098b59d72f085319e68cdd86d5798"
+  integrity sha512-LL9GEt3bkXp6Wa19SNR5MWcvHNMvuTFYg+eYBZN2OIFhSWN+pEJUQXEKu5BsOeABob3x9PDaLKW7w5iOJnsESQ==
 
 rollup-plugin-babel@^4.4.0:
   version "4.4.0"

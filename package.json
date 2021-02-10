@@ -99,7 +99,7 @@
     "react-test-renderer": "^16.13.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.16.1",
-    "rollup-plugin-analyzer": "^3.2.3",
+    "rollup-plugin-analyzer": "^4.0.0",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
