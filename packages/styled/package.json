@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.0",
     "@types/styled-system": "^5.1.9",
-    "csstype": "^2.6.10",
+    "csstype": "^3.0.0",
     "date-fns": "^2.14.0",
     "styled-components": "^5.1.1"
   },
